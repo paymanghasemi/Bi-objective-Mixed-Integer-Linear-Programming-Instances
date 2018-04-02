@@ -1,5 +1,5 @@
 # Bi-objective Mixed Integer Linear Programming Instances
-Set of solved instances using BOMILP-Branch&Bound-Maximum-Miltilplicative-Programming.cpp
+Set of solved instances using BOMILP-MMP.cpp
 # Instances
 We generated two sets of instances each with 80 randomly generated instances. In both sets, 50% of all the variables are constinuous. However in mixed-integer set, there is no binary variables, i.e. half of the variables are continuous and the other half are integers. In mixed-binary set, there is no integer variables, i.e. half of the variables are continuous and the rest are binaries. The problems are as follows,
 
