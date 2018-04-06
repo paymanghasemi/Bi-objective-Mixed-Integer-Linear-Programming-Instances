@@ -21,4 +21,4 @@ Real, binary, and integer decision variables are distributed randomly in the ins
 
 The instances were generated as part of academic research. If you would like to help support it, please star the repository as such metrics may help us secure funding in the future. We would be grateful if you could cite:
 
-Ghasemi Saghand, P., Charkhgard, H., A Branch-and-Bound Algorithm for a class of Mixed Integer Linear Maximum Multiplicative Programs: A Multi-objective Optimization Approach
+Ghasemi Saghand, P., Charkhgard, H., Changhyun, K., A Branch-and-Bound Algorithm for a class of Mixed Integer Linear Maximum Multiplicative Programs: A Multi-objective Optimization Approach
